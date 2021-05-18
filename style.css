@@ -1,0 +1,49 @@
+*{
+    margin: 3px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.ov1{
+    overflow: hidden;
+}
+
+
+.header{
+    background-color: #fed904;
+text-align: center;
+}
+
+.nav{
+    background-color: #fed904;
+    width: 33.33%;
+    height: 600px;
+    float: left;
+    border: inset;
+    text-align: center;
+}
+
+.ads{
+    background-color: #fed904;
+    float:right;
+    width: 33.33%;
+    height: 600px;
+    border:inset;
+    text-align: center;
+}
+.article{
+    background-color: #fed904;
+    float: left;
+    width: 31%;
+    height: 600px;
+    border: inset;
+    text-align: center;
+}
+.ov2{
+    overflow: hidden;
+}
+.Footer{
+    background-color: #fed904;
+width: 100%;
+border: white;
+text-align: center;
+}
